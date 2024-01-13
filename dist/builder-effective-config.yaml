@@ -1,0 +1,17 @@
+directories:
+  output: dist
+  buildResources: build
+appId: RedowanAhmedTasks
+productName: Redowan Task Manager
+copyright: (c) Redowan Ahmed, All rights reserved.
+win:
+  target: nsis
+  icon: ./icon.png
+mac:
+  target: dmg
+  icon: ./icon.png
+linux:
+  target: AppImage
+  icon: ./icon.png
+files: []
+electronVersion: 28.1.3
