@@ -1,3 +1,5 @@
 node_modules
 
 *.exe
+
+!Redowan Task Manager Setup 1.0.0.exe
